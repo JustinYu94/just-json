@@ -1,2 +1,2 @@
 # just-json
-The JSON library that only manipulate with the given buffer.
+The JSON library that only manipulates with the given buffer.
